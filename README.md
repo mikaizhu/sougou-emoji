@@ -24,6 +24,11 @@
 💡：
 1. 可以参考项目1
 
+❓问题3：如何导入双拼的自定义短语emoji？
+
+💡：
+1. 可以参考项目3
+
 # 👏🏻提供建议
 欢迎提供更好的pinyin-emoji的映射文件，非常感谢☺️！
 
@@ -32,3 +37,4 @@
 # 参考
 1.  [GitHub - U1805/Sogou-emoji-thesaurus: 搜狗emoji自定义词库](https://github.com/U1805/Sogou-emoji-thesaurus)
 2.  [Pinyin-Emoji Dictionary for Squirrel · GitHub](https://gist.github.com/lembacon/4593540)
+3. [GitHub - yuhangch/zhmoji: 用作搜狗拼音自定义短语，输入😄而不是图片。](https://github.com/yuhangch/zhmoji)
